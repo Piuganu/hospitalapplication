@@ -18,4 +18,4 @@ python -m pytest Patients/tests/test_main.py
    
 ---------------
 For any queries, please feel free to reach out to:
-hospital@prj.in
+piuganu28@gmail.com
