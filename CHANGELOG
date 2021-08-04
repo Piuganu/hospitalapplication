@@ -1,0 +1,6 @@
+0.0.1 ----- Basic structure
+0.0.2 ---- logging functionality
+0.0.3 -----command line inputs from users for using argpaese
+0.0.4 ----XML parser
+0.0.5 ----configparser
+0.0.5 --- JSON
