@@ -1,0 +1,4 @@
+ 1. Devices  - Oncology,Radiology,MRI
+2.Scanning
+3.Oxygen support
+4.life support
